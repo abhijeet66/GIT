@@ -1,0 +1,3 @@
+http://git-scm.com/book/en/v2
+http://git-scm.com/download/win
+https://try.github.io/levels/1/challenges/2
